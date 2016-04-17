@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyPhoneContactApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="operator1">Avea</string>
+    <string name="operator2">Turkcell</string>
+    <string name="operator3">Vodafone</string>
+    <string name="operator4">All</string>
+    <string name="button1">Back UP</string>
+    <string name="button2">Recovery</string>
+</resources>
